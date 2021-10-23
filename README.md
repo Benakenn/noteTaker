@@ -5,7 +5,7 @@ Modify starter code to create an application called 'Note Taker' that can be use
 
 ## SOLUTION:
 
-🗂️ [Github Repository](https://github.com/cakspri/Note-Taker)
+🗂️ [Github Repository](https://github.com/Benakenn/noteTaker.git)
 
 📑[Heroku Git Repository](https://note-taker1100.herokuapp.com/)
 

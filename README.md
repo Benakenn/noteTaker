@@ -38,7 +38,5 @@ Notes Page
 ![Notes Page](./Assets/NotesPage.png)
 Note Added
 ![Note Added](./Assets/NoteAdded.png)
-Note Deleted
-![Note Deleted](./Assets/NoteDeleted.png)
 Saved Notes View
 ![Saved Notes View (ReadOnly)](./Assets/ViewingSavedNotes.png)

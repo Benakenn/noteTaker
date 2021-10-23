@@ -44,7 +44,3 @@ Note Deleted
 ![Note Deleted](./Assets/NoteDeleted.png)
 Saved Notes View
 ![Saved Notes View (ReadOnly)](./Assets/ViewingSavedNotes.png)
-Note Deletion
-!(./Assets/NoteDeletion.png)
-No Console Errors
-![No Console Errors](./Assets/NoErrors.png)

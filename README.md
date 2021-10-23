@@ -36,8 +36,6 @@ Landing Page/Getting Started Page:
 ![Landing/Getting Started Page](./Assets/LandingPage.png)
 Notes Page
 ![Notes Page](./Assets/NotesPage.png)
-Rerouting to Landing Page/Getting Started Page no matter which path apart from /notes is entered: 
-!(./Assets/RerouteHome.png)
 Note Added
 ![Note Added](./Assets/NoteAdded.png)
 Note Deleted
